@@ -1,6 +1,11 @@
-#Symfony CRUD and Swag
-
-### Setup project
+<p align="center">
+    <a href="https://symfony.com/" target="_blank">
+        <img src="https://symfony.com/images/logos/header-logo.svg" height="100px">
+    </a>
+    <h1 align="center">symfony-rest-crud</h1>
+    <br>
+</p>
+## Setup project
 
 ```
 - Composer
